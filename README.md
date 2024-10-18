@@ -17,4 +17,4 @@
  ```
 
  # DOWNLOAD DO EXECUTÁVEL
- [click_aqui]("https://drive.google.com/file/d/1-wxuqPyMhKyPjeTW56xxLaRkU1ccy4T4/view?usp=sharing")
+ [click_aqui](https://drive.google.com/file/d/1-wxuqPyMhKyPjeTW56xxLaRkU1ccy4T4/view?usp=sharing)
