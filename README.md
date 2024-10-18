@@ -15,3 +15,6 @@
    pip3 install -r requirements.txt
    python3 main.py
  ```
+
+ # DOWNLOAD DO EXECUTÁVEL
+ [click_aqui]("https://drive.google.com/file/d/1-wxuqPyMhKyPjeTW56xxLaRkU1ccy4T4/view?usp=sharing")
